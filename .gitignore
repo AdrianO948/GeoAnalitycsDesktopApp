@@ -173,5 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+
 !.venv1/Scripts/db_connection.py
 !.venv1/Scripts/main_application_file.py
