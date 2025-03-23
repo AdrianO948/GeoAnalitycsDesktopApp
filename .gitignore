@@ -172,4 +172,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-!.venv/Scripts/*
+!.venv/Scripts/db_connection.py
+!.venv/Scripts/db_connection.py
