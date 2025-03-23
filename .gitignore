@@ -128,8 +128,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
+.env
 env/
 ENV/
 env.bak/
@@ -172,4 +172,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-!nazwa_folderu/
+!.venv/Scripts/*
